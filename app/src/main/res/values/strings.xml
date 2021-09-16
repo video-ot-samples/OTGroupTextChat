@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Screenshare Call</string>
+    <string name="room_name">Enter room name</string>
+    <string name="name">Enter your name</string>
+    <string name="screenshare">Start Screenshare</string>
+    <string name="chat">Start Chat</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="enter_room_check">Please enter room name and your name to start chat</string>
+    <string name="session_error">Session creation error. Please try again.</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
